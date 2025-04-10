@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "開発目標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "開発目標.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "開発目標.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b34e094d328f4d3",
+  "active": "aa0a455d19eb4742",
   "lastOpenFiles": [
     "開発目標.md"
   ]
